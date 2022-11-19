@@ -1,0 +1,11 @@
+unlist(log.txt)
+Non-hierarchical:  ARIMA: 31.464 sec elapsed
+Non-hierarchical:  ARIMA: 31.2 sec elapsed
+Non-hierarchical:  ARIMA: 31.237 sec elapsed
+Non-hierarchical:  ARIMA: 31.318 sec elapsed
+Non-hierarchical:  ARIMA: 31.346 sec elapsed
+Non-hierarchical:  ARIMA: 31.252 sec elapsed
+Non-hierarchical:  ARIMA: 31.313 sec elapsed
+Non-hierarchical:  ARIMA: 31.24 sec elapsed
+Non-hierarchical:  ARIMA: 31.4 sec elapsed
+Non-hierarchical:  ARIMA: 31.53 sec elapsed
